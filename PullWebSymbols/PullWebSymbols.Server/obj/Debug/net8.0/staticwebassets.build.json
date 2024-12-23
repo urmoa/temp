@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "HOSnp95/HI6SwcK0gI+B2JBETx1O+VdJFL+1PQ6qpLY=",
+  "Source": "PullWebSymbols.Server",
+  "BasePath": "_content/PullWebSymbols.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Projects\\interv_Urmo_Arr\\PullWebSymbols\\pullwebsymbols.client\\pullwebsymbols.client.esproj",
+      "Version": 2,
+      "Source": "pullwebsymbols.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@PullWebSymbols.Server_HostAddress = http://localhost:5198
+
+GET {{PullWebSymbols.Server_HostAddress}}/search
+Accept: application/json
+
+###
